@@ -1,0 +1,28 @@
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\ApplicationIcon.png
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\Background.png
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\AppManifest.xaml
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\WP7CordovaClassLib.dll
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\App.g.i.cs
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\MainPage.g.i.cs
+C:\Users\Thempra\documents\visual studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\XapCacheFile.xml
+C:\Users\Thempra\Documents\Visual Studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\GlobalAlert.dll
+C:\Users\Thempra\Documents\Visual Studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\GlobalAlert.pdb
+C:\Users\Thempra\Documents\Visual Studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\Bin\Release\GlobalAlert.xap
+C:\Users\Thempra\Documents\Visual Studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\GlobalAlert.g.resources
+C:\Users\Thempra\Documents\Visual Studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\GlobalAlert.dll
+C:\Users\Thempra\Documents\Visual Studio 2010\Projects\GlobalAlertCordova\GlobalAlertCordova\obj\Release\GlobalAlert.pdb
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\ApplicationIcon.png
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\Background.png
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\GlobalAlert.dll
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\GlobalAlert.pdb
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\AppManifest.xaml
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\GlobalAlert.xap
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\Bin\Release\WP7CordovaClassLib.dll
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\ResolveAssemblyReference.cache
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\App.g.i.cs
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\MainPage.g.i.cs
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\GlobalAlert.g.resources
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\GlobalAlert.dll
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\GlobalAlert.pdb
+D:\GlobalAlert\WindowsPhone\GlobalAlertCordova\obj\Release\XapCacheFile.xml

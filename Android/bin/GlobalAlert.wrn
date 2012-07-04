@@ -1,0 +1,4 @@
+uses-method:impact=1:android.media.AudioManager$setRouting
+uses-method:impact=1:android.media.MediaPlayer$setAudioStreamType
+
+impact-summary: [5]=0; [4]=0; [3]=0; [2]=0; [1]=2;
